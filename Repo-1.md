@@ -39,13 +39,13 @@ Proses clone adalah proses untuk menduplikasikan remote repo di GitHub ke komput
   <li>Kemudian klik tombol <b>Code</b>, lalu copy link https.</li>
   <li>Ketik "git clone <link https>".</li>
 </ol>
-`  git clone https://github.com/LuceRest/01-git-github.git
-  Cloning into '01-git-github'...
-  remote: Enumerating objects: 6, done.
-  remote: Counting objects: 100% (6/6), done.
-  remote: Compressing objects: 100% (4/4), done.
-  remote: Total 6 (delta 0), reused 0 (delta 0), pack-reused 0
-  Receiving objects: 100% (6/6), done.`
+  git clone https://github.com/LuceRest/01-git-github.git <br>
+  Cloning into '01-git-github'...<br>
+  remote: Enumerating objects: 6, done.<br>
+  remote: Counting objects: 100% (6/6), done.<br>
+  remote: Compressing objects: 100% (4/4), done.<br>
+  remote: Total 6 (delta 0), reused 0 (delta 0), pack-reused 0<br>
+  Receiving objects: 100% (6/6), done.`<br>
 
 
 
